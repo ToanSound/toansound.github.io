@@ -23,25 +23,17 @@
     <loc>https://toansound.com/scratch.html</loc>
     <lastmod>2026-11-26</lastmod>
     <priority>0.9</priority>
-    <image:image><image:loc>https://toansound.com/assets/img/top_thor_doom.webp</image:loc></image:image>
     <image:image><image:loc>https://toansound.com/assets/img/top_roar.webp</image:loc></image:image>
     <image:image><image:loc>https://toansound.com/assets/img/top_shin.webp</image:loc></image:image>
     <image:image><image:loc>https://toansound.com/assets/img/top_ginza.webp</image:loc></image:image>
     <image:image><image:loc>https://toansound.com/assets/img/top_shin_part2.webp</image:loc></image:image>
+    <image:image><image:loc>https://toansound.com/assets/img/top_thor_doom.webp</image:loc></image:image>
     <image:image><image:loc>https://toansound.com/assets/img/top_spiderman_hulk.webp</image:loc></image:image>
     <image:image><image:loc>https://toansound.com/assets/img/top_optimus_part1.webp</image:loc></image:image>
     <image:image><image:loc>https://toansound.com/assets/img/top_optimus_part2.webp</image:loc></image:image>
     <image:image><image:loc>https://toansound.com/assets/img/top_zelda.webp</image:loc></image:image>
     <image:image><image:loc>https://toansound.com/assets/img/top_jinx.webp</image:loc></image:image>
     <image:image><image:loc>https://toansound.com/assets/img/top_fiddlesticks.webp</image:loc></image:image>
-    <video:video>
-      <video:thumbnail_loc>https://toansound.com/assets/img/top_thor_doom.webp</video:thumbnail_loc>
-      <video:title>Thor vs Doom, made from scratch</video:title>
-      <video:description>SCRATCH sound design video by Toan Sound: Thor vs Doom, every sound rebuilt with everyday objects (lightning and a green beam, rebuilt in FL Studio). Dry first, then with FX.</video:description>
-      <video:player_loc>https://www.youtube-nocookie.com/embed/mlW7Lkqalaw</video:player_loc>
-      <video:duration>16</video:duration>
-      <video:publication_date>2026-11-23T19:58:00+01:00</video:publication_date>
-    </video:video>
     <video:video>
       <video:thumbnail_loc>https://toansound.com/assets/img/top_roar.webp</video:thumbnail_loc>
       <video:title>Godzilla’s roar, made from scratch</video:title>
@@ -73,6 +65,14 @@
       <video:player_loc>https://www.youtube-nocookie.com/embed/yoopMiCKzTU</video:player_loc>
       <video:duration>30</video:duration>
       <video:publication_date>2026-11-15T16:56:00+01:00</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://toansound.com/assets/img/top_thor_doom.webp</video:thumbnail_loc>
+      <video:title>Thor vs Doom, made from scratch</video:title>
+      <video:description>SCRATCH sound design video by Toan Sound: Thor vs Doom, every sound rebuilt with everyday objects (lightning and a green beam, rebuilt in FL Studio). Dry first, then with FX.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/mlW7Lkqalaw</video:player_loc>
+      <video:duration>16</video:duration>
+      <video:publication_date>2026-11-23T19:58:00+01:00</video:publication_date>
     </video:video>
     <video:video>
       <video:thumbnail_loc>https://toansound.com/assets/img/top_spiderman_hulk.webp</video:thumbnail_loc>
@@ -322,17 +322,17 @@
   </url>
   <url>
     <loc>https://toansound.com/legal.html</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.2</priority>
   </url>
   <url>
     <loc>https://toansound.com/privacy.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.2</priority>
   </url>
   <url>
     <loc>https://toansound.com/terms.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.2</priority>
   </url>
 </urlset>
