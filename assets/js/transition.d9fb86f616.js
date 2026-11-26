@@ -1,0 +1,1 @@
+window.addEventListener("pagereveal",(e)=>{if(!e.viewTransition)return;const r=document.documentElement;r.classList.add("vt-arrive");e.viewTransition.finished.finally(()=>setTimeout(()=>r.classList.remove("vt-arrive"),650));});
