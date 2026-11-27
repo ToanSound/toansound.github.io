@@ -61,7 +61,19 @@
 <p class="lead">What it is, how long, when you need it.<br>Toan Sound is a sound design studio based in Paris.</p>
 <a class="link" href="mailto:contact@toansound.com">contact@toansound.com <span class="arr" aria-hidden="true">↗</span></a>
 </div>
-<div class="contact panel"><p class="lead field--full">The best way to reach me is email. Tell me what it is, how long, and when you need it.</p><p class="field--full"><a class="pill pill--solid" href="mailto:contact@toansound.com?subject=New%20project">Email me <span class="arr" aria-hidden="true">↗</span></a></p></div>
+<form class="contact panel" id="contact-form" name="contact" method="POST" action="https://formspree.io/f/mzerwojr" novalidate data-ok="Thanks! I'll get back to you soon.">
+<input type="hidden" name="_subject" value="Contact form: new project request">
+<div class="field"><label for="c-name">Name</label><input id="c-name" name="name" autocomplete="name" maxlength="100" required></div>
+<div class="field"><label for="c-email">Email</label><input id="c-email" name="email" type="email" autocomplete="email" maxlength="254" required></div>
+<div class="field field--full"><label for="c-type">Project</label>
+<select id="c-type" name="type"><option>Sound design</option><option>Mixing</option><option>Sound identity</option><option>Animation / 3D</option><option>Original music</option><option>On-set recording</option><option>Other</option></select></div>
+<div class="field field--full"><label for="c-msg">Message</label><textarea id="c-msg" name="message" rows="4" maxlength="5000" required></textarea></div>
+<p class="hp" aria-hidden="true"><label>Leave this empty <input name="_gotcha" tabindex="-1" autocomplete="off"></label></p>
+<label class="consent field--full"><input type="checkbox" name="consent" required><span>I agree that my data is used to reply to my request. <a href="privacy.html">Privacy</a></span></label>
+<p class="form-note field--full">We use your details only to answer you. Privacy policy: <a href="privacy.html">read it</a>.</p>
+<button class="pill pill--solid" type="submit">Send message <span class="arr" aria-hidden="true">↗</span></button>
+<p class="note field--full" role="status" aria-live="polite"></p>
+</form>
 </div>
 </section>
 <section id="about" class="block">
